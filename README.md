@@ -1,29 +1,13 @@
-<h1 align="center">Hi, I'm Kurt Audrey Montera 👋</h1>
-<h3 align="center">Full-Stack Developer · ACLC College of Tacloban · Tacloban City, Leyte</h3>
-
-<br/>
-
----
-
-## 🧑‍💻 About Me
-
-- 🏫 Studying at **ACLC College of Tacloban**
-- 💻 Passionate about building clean, functional web applications
-- 🌱 Currently leveling up in **TypeScript** and **Next.js**
-- 📍 Based in **Tacloban City, Leyte, Philippines**
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevCsoul&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevCsoul&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCsoul&layout=compact&theme=dark&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=DevCsoul&theme=dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevCsoul&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCsoul&layout=compact&theme=dark&hide_border=true&count_private=true&langs_count=8"/>
 </p>
 
 ---
@@ -50,12 +34,15 @@
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🧰 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
@@ -64,6 +51,15 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🧑‍💻 About Me
+
+- 🏫 Studying at **ACLC College of Tacloban**
+- 💻 Passionate about building clean, functional web applications
+- 🌱 Currently leveling up in **TypeScript** and **Next.js**
+- 📍 Based in **Tacloban City, Leyte, Philippines**
 
 ---
 
@@ -79,10 +75,4 @@
   <a href="https://github.com/DevCsoul">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevCsoul&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
