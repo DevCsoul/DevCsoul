@@ -63,7 +63,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 My Socials
 
 <p>
   <a href="https://www.facebook.com/kurtaudrey.delutemontera.73">
