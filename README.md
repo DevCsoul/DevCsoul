@@ -1,4 +1,4 @@
-# Hi, I'm Kurt Audrey D. Montera 👋
+# About Me
 
 BSIT graduate with 2+ years of hands-on experience freelancing for local businesses in the region, building full-stack web applications with the MERN stack. I've delivered real-world solutions across government, healthcare, and SME sectors, from a digitalized local government feedback platform to a full HR and payroll management system. 🥈🥇 2nd and 1st placer, IT Skills Web Design Competition (2024–2025).
 
